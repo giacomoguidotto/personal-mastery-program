@@ -1,7 +1,28 @@
 # Security Policy
 
-Please do not report vulnerabilities through public issues.
+## Supported Versions
 
-Use GitHub private vulnerability reporting if it is enabled for this repository. If it is not enabled, contact the maintainer through the public GitHub profile and share only the minimum information needed to establish a private channel.
+| Version | Supported |
+|---------|-----------|
+| Latest  | Yes       |
 
-This repo is currently documentation and learning infrastructure. If executable services, demos, or hosted systems are added, this policy should be updated with project-specific reporting and support details.
+## Reporting Security Issues
+
+If you believe you have found a security vulnerability, we encourage you to let us know right away. We will investigate all legitimate reports and do our best to quickly fix the problem.
+
+**Please do not report security vulnerabilities through public GitHub issues.**
+
+Instead, report them via email to [personal-mastery-program@guidotto.dev](mailto:personal-mastery-program@guidotto.dev).
+
+Please include:
+
+- A description of the vulnerability
+- Steps to reproduce the issue
+- Any relevant logs or screenshots
+- The potential impact of the vulnerability
+
+## Response Timeline
+
+- **Acknowledgment**: within 48 hours
+- **Initial assessment**: within 1 week
+- **Resolution target**: depends on severity, typically within 30 days
