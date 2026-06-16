@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Personal Mastery Program logo</title>
+  <desc id="desc">A systems grid with a deliberate path ending in a validated checkpoint.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 28h84M22 64h84M22 100h84M28 22v84M64 22v84M100 22v84" stroke="#67e8f9" stroke-opacity=".34" stroke-width="2"/>
+    <path d="M26 98 46 76 66 82 85 57 105 34" stroke="#0e7490" stroke-width="4.25"/>
+  </g>
+  <g stroke="#111827" stroke-width="3">
+    <circle cx="26" cy="98" r="4.75" fill="#f8fafc"/>
+    <circle cx="46" cy="76" r="4.75" fill="#f8fafc"/>
+    <circle cx="66" cy="82" r="4.75" fill="#f8fafc"/>
+    <circle cx="85" cy="57" r="4.75" fill="#f8fafc"/>
+  </g>
+  <g transform="translate(105 34) rotate(45)">
+    <rect x="-8" y="-8" width="16" height="16" rx="1" fill="#22d3ee" stroke="#111827" stroke-width="3"/>
+  </g>
+</svg>

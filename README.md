@@ -1,4 +1,6 @@
-<p align="center"><em>Logo slot: add <code>assets/logo.svg</code> when the identity settles.</em></p>
+<p align="center">
+  <img src="assets/logo.svg" alt="Personal Mastery Program logo" width="112">
+</p>
 
 <h1 align="center">Personal Mastery Program</h1>
 
