@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Personal Mastery Program logo" width="112">
+  <img src="assets/logo.svg" alt="Personal Mastery Program logo" width="160" />
 </p>
 
 <h1 align="center">Personal Mastery Program</h1>
 
-<p align="center"><strong>A self-directed graduate-level curriculum tailored to your goals.</strong></p>
-
 <p align="center">
-  Current track: CS/AI Systems for AI-native backend and product infrastructure engineering.
+  <strong>A self-directed graduate-level curriculum tailored to your goals.</strong><br>
+  <sub>CS/AI Systems for AI-native backend and product infrastructure engineering.</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/giacomoguidotto/personal-mastery-program/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/giacomoguidotto/personal-mastery-program/actions/workflows/ci.yml/badge.svg"></a>
   <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
+
+<br>
 
 ## Why this exists
 
